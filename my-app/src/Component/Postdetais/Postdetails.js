@@ -8,7 +8,7 @@ const Postdetails = (props) => {
             <h1>{title}</h1>
             <p>{body}</p>
             <Link to ={`/about/${id}`}>
-              <button>show post{id} </button>
+              <button>show comment{id} </button>
             </Link>
             
         </div>
