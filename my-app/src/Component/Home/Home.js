@@ -12,7 +12,7 @@ const Home = () => {
 
    },[])
 
-
+   
 
     return (
         <div className="homo-page">

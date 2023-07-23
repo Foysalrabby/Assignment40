@@ -12,7 +12,7 @@ function App() {
     </Routes>
     
     <Routes>
-      <Route exact path="/about/:posterID" element= {<Personpost></Personpost>}/> 
+      <Route exact path="/about/:posterID" element= {<Personpost ></Personpost>}/> 
     </Routes>
     </div>
   );

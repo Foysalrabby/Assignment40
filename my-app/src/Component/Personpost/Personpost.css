@@ -1,0 +1,7 @@
+.item-section{
+    display: flex;
+}
+.itemsection1{
+    width: 20%;
+    float: left;
+}
